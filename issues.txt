@@ -1,0 +1,7 @@
+verification:
+    - not sure if the verification module is working because it doesnt trigger
+
+login:
+    - on login, the fxnn checks if the username and password inserted matches the username and password the database.
+    - the inserted username and password matches that username and password 
+    - but it still says invalid login
